@@ -22,6 +22,13 @@ Submissions will have deadlines, failed GitHub Actions would result in point ded
 1. Cloning a Repository: <https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository>
 2. Any GitHub Setup: Please refer to the Git & GitHub Fundamentals Repository shared to you by your respective TA and refer the README.md section
 
+### Specifications of Assignment
+LAB
+
+Implement the Adapter Structural Object Design Pattern illustrated in today's slides.
+
+AND ALSO RE-IMPLEMENT the same solution as an Adapter Structural Class Design Pattern (Java does NOT support multiple inheritance but you work around it for this lab)
+
 Please reach out to your respective TA if you need any help in regards with submission/ GitHub
 
 Author:
